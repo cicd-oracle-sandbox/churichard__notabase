@@ -1,0 +1,4 @@
+upstream: https://github.com/churichard/notabase
+commit: 813670c810c37dda9e4d178eba0899b7845bf403
+license: AGPL-3.0
+Unmodified snapshot except that .github/workflows was emptied.
